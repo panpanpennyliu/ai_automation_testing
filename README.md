@@ -6,6 +6,7 @@ This Python project is dedicated to testing the capabilities of multimodal model
 
 - **input/**: Stores the images and videos for testing.
 - **output/**: Contains the test result file results.xlsx, which saves the processing results of the model on the input data.
+- **llm/**: Contails seperate folders of diffrent ai models like openai/ or gemini/, with API calling methods in process.py file.
 - **log/**: Stores log information during the project operation.
 - **main.py**: The main program file of the project, responsible for calling the model for testing and outputting the results to the specified file.
 - **.env**: The config file to save API Key.
