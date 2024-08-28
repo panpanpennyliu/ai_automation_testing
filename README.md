@@ -21,8 +21,9 @@ This Python project is dedicated to testing the capabilities of multimodal model
 # Usage
 
 1. Clone this project to local.
-2. Update your API key in .env file.
-3. Run the main.py file. The program will automatically call the Gemini 1.5 model to process the input files and save the results to the output/results.xlsx file.
+2. pip install -r requirements.txt
+3. Update your API key in .env file.
+4. Run the main.py file. The program will call the Gemini 1.5 model to process the input files and save the results to the output/results.xlsx file.
 
 # Notes
 
