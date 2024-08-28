@@ -15,15 +15,7 @@ def main():
 
     ginai_model = GinaiModel()
 
-    '''
-    image_path = 'input/image/1.png'
-    prompt = 'tell me the content in the image'
-    result = ginai_model.process_image(image_path, prompt)
-    print(result)
-    sys.exit()
-    '''
-
-    data = read_excel_data("input/testing_case.xlsx")
+    data = read_excel_data("input/testing_case.xlsx")    
     data.dropna(subset=['Image & Video','Prompt'], inplace=True)
     logging.info('interate excel input file')
     processed_data = []
@@ -36,21 +28,30 @@ def main():
         expected_result = row['Expected Result']
 
         logging.info('===process %s ===', case_name)
-        
+
         if "image" in media:
             image_path = media
-            #result = ginai_model.process_image(image_path, prompt)
+            result = ginai_model.process_image(image_path, prompt)
         elif "video" in media:
             video_path = media
-            #result = ginai_model.process_video(video_path, prompt)
+            result = ginai_model.process_video(video_path, prompt)
         else:
             result = 'Unknown case'
 
-        #logger.info('Response: \n %s', result)
-        processed_data.append([case_name, ira_module, case_scenario, media, prompt, 'OK', expected_result, 'PASS'])
+        logger.info('Response: \n %s', result)
+        if pd.isna(expected_result):
+            verification_result = ""
+        if result.strip() == "Running Error":
+            verification_result = "Running Error"
+        if result.strip() == str(expected_result).strip():
+            verification_result = "SUCCESS"
+        else:
+            verification_result = "FAIL"
+
+        processed_data.append([case_name, ira_module, case_scenario, media, prompt, result, expected_result, verification_result])
 
     output_df = pd.DataFrame(processed_data, columns=['Case Name', 'IRA Module', 'Case Scenario', 'Image & Video', 'Prompt', 'Actual Result', 'Expected Result', 'Verification Result'])
-    output_df.to_excel("output/results.xlsx", index=False)
+    output_df.to_excel("output/result.xlsx", index=False)
     logging.info('finished...')
 
 if __name__ == '__main__':
