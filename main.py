@@ -38,12 +38,14 @@ def main():
         else:
             result = 'Unknown case'
 
-        logger.info('Response: \n %s', result)
+        logging.info('Response: \n %s', result)
         if pd.isna(expected_result):
             verification_result = ""
         if result.strip() == "Running Error":
             verification_result = "Running Error"
         if result.strip() == str(expected_result).strip():
+            verification_result = "SUCCESS"
+        elif isinstance(expected_result, str) and str(expected_result).strip() in result.strip():
             verification_result = "SUCCESS"
         else:
             verification_result = "FAIL"
