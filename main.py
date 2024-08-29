@@ -15,10 +15,12 @@ def main():
 
     ginai_model = GinaiModel()
 
-    data = read_excel_data("input/testing_case.xlsx")    
-    data.dropna(subset=['Image & Video','Prompt'], inplace=True)
-    logging.info('interate excel input file')
-    processed_data = []
+    data = read_excel_data("input/testing_case.xlsx") # read input excel   
+    data.dropna(subset=['Image & Video','Prompt'], inplace=True) # ignore the row if column  'Image & Video' or 'Prompt' is blank
+
+    processed_data = [] # for saving output data
+
+    logging.info('interate test cases in input excel')
     for index, row in data.iterrows():
         case_name = row['Case Name']        
         ira_module = row['IRA Module']
@@ -27,7 +29,7 @@ def main():
         prompt = row['Prompt']
         expected_result = row['Expected Result']
 
-        logging.info('===process %s ===', case_name)
+        logging.info('=== process %s ===', case_name)
 
         if "image" in media:
             image_path = media
@@ -39,6 +41,7 @@ def main():
             result = 'Unknown case'
 
         logging.info('Response: \n %s', result)
+
         if pd.isna(expected_result):
             verification_result = ""
         if result.strip() == "Running Error":
@@ -51,10 +54,12 @@ def main():
             verification_result = "FAIL"
 
         processed_data.append([case_name, ira_module, case_scenario, media, prompt, result, expected_result, verification_result])
-
+    
+    # write to output excel
     output_df = pd.DataFrame(processed_data, columns=['Case Name', 'IRA Module', 'Case Scenario', 'Image & Video', 'Prompt', 'Actual Result', 'Expected Result', 'Verification Result'])
-    output_df.to_excel("output/result.xlsx", index=False)
+    output_df.to_excel("output/result.xlsx", index=False) 
+
     logging.info('finished...')
 
-if __name__ == '__main__':
+if __name__ == '__main__':    
     main()
