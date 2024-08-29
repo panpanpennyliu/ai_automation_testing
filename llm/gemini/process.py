@@ -31,12 +31,18 @@ class GinaiModel:
     # process with image input
     def process_image(self, image_path, prompt):
         self.logger.info('[process image]')
-        self.logger.info('image_path: %s', image_path)
+
+        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+        full_image_path = os.path.join(base_dir, image_path)
+
+        self.logger.info('image_path: %s', full_image_path)
         self.logger.info('prompt: %s', prompt)
         
+        result = ""
+
         try:
             prompt_parts = [
-                genai.upload_file(image_path),
+                genai.upload_file(full_image_path),
                 prompt
             ]
         except Exception as e:
@@ -46,28 +52,35 @@ class GinaiModel:
         if result != "Running Error":
             for attempt in range(5): #retry up to 5 times
                 try:
-                    response = self.ginai_model.generate_content(prompt_parts)
-            
+                    response = self.ginai_model.generate_content(prompt_parts)            
                     result = response.text
-                except InternalServerError as e:
-                    self.logger.error('Server error, retrying... %s times', attempt+1)
-                    time.sleep(2 ** attempt) # Exponential backoff
+
+                    break
+
                 except Exception as e:
                     result = "Running Error"
+                    sleep_time = 2 ** attempt
                     self.logger.error('Exception: \n %s \n', e)
-                    break # Exit on other exceptions
+                    self.logger.error('Retrying in %s seconds', sleep_time)
+                    time.sleep(sleep_time)
 
         return result
         
     # process with video input
     def process_video(self, video_path, prompt):
         self.logger.info('[process video]')
-        self.logger.info('video_path: %s', video_path)
+
+        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+        full_video_path = os.path.join(base_dir, video_path)
+
+        self.logger.info('video_path: %s', full_video_path)
         self.logger.info('prompt: %s', prompt)
+        
+        result = ""
         
         try:
             self.logger.info('Uploading file...')
-            video_file = genai.upload_file(path=video_path)
+            video_file = genai.upload_file(path=full_video_path)
             self.logger.info('Completed upload: %s', video_file.uri)
 
             # Check whether the file is ready to be used.
@@ -88,16 +101,17 @@ class GinaiModel:
             for attempt in range(5): #retry up to 5 times
                 try:
                     response = self.ginai_model.generate_content([video_file, prompt],
-                                                        request_options={"timeout": 600})
-            
+                                                        request_options={"timeout": 600})            
                     result = response.text
-                except InternalServerError as e:
-                    self.logger.error('Server error, retrying... %s times', attempt+1)
-                    time.sleep(2 ** attempt) # Exponential backoff
+
+                    break
+
                 except Exception as e:
                     result = "Running Error"
+                    sleep_time = 2 ** attempt
                     self.logger.error('Exception: \n %s \n', e)
-                    break # Exit on other exceptions
+                    self.logger.error('Retrying in %s seconds', sleep_time)
+                    time.sleep(sleep_time)
 
         return result
         
