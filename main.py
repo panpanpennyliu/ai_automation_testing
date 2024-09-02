@@ -56,7 +56,7 @@ def main():
         processed_data.append([case_name, ira_module, case_scenario, media, prompt, result, expected_result, verification_result])
     
     # write to output excel
-    output_df = pd.DataFrame(processed_data, columns=['Case Name', 'IRA Module', 'Case Scenario', 'Image & Video', 'Prompt', 'Actual Result', 'Expected Result', 'Verification Result'])
+    output_df = pd.DataFrame(processed_data, columns=['Case Name', 'IRA Module', 'Case Scenario', 'Image & Video', 'Prompt', 'Actual Response', 'Expected Response', 'Verification Result'])
     output_df.to_excel("output/result.xlsx", index=False) 
 
     logging.info('finished...')
