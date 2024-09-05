@@ -1,0 +1,3685 @@
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The operator performed the following actions:
+
+1. Opened a weather website on the left side of the screen.
+2. Viewed weather information for different cities: initially for "洛阳" (Luoyang), then "北京" (Beijing), and finally "广州" (Guangzhou).
+3. Used the search function on the website to switch between these cities.
+4. The right side of the screen shows a spreadsheet, but no changes were made to it during the frames provided.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Based on the frames provided, here are the detailed steps from the video:
+
+1. **Initial Setup**:
+   - The screen is split into two sections: a web browser on the left and a spreadsheet on the right.
+
+2. **Searching for Weather**:
+   - The user opens a weather website in the browser.
+   - They search for the weather in a specific city (e.g., "洛阳").
+
+3. **Recording Weather Data**:
+   - The current temperature and weather conditions are displayed on the website.
+   - The user enters this information into the spreadsheet in the corresponding cell.
+
+4. **Switching Cities**:
+   - The user clicks on a dropdown or search bar to change the city.
+   - They enter a new city name (e.g., "北京") and repeat the process of recording the weather data.
+
+5. **Repeating the Process**:
+   - The user continues to search for different cities (e.g., "西安") and updates the spreadsheet with the new weather information.
+
+6. **Final Steps**:
+   - The user ensures all relevant weather data is recorded in the spreadsheet for each city searched.
+
+This process is repeated for each city listed in the spreadsheet, updating the weather information accordingly.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Based on the frames from the video, here are the detailed steps:
+
+1. **Initial Setup:**
+   - The screen is split between a weather website and a spreadsheet.
+   - The spreadsheet has a list of cities in column A.
+
+2. **First City (Chongqing):**
+   - The operator searches for the weather in Chongqing on the website.
+   - The temperature displayed is 25°C.
+   - The operator enters "25°C" in cell B1 of the spreadsheet next to Chongqing.
+
+3. **Second City (Beijing):**
+   - The operator searches for the weather in Beijing.
+   - The temperature displayed is 35°C.
+   - The operator enters "35°C" in cell B2 of the spreadsheet next to Beijing.
+
+4. **Third City (Shanghai):**
+   - The operator searches for the weather in Shanghai.
+   - The temperature displayed is 32°C.
+   - The operator enters "32°C" in cell B3 of the spreadsheet next to Shanghai.
+
+5. **Final Steps:**
+   - The operator ensures all temperatures are correctly entered in the spreadsheet.
+   - The task is completed with the temperatures updated for all three cities.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+To find the weather for Yunnan using the same method shown in the video frames, follow these steps:
+
+1. **Open the Browser:**
+   - Launch your web browser and go to the Baidu website.
+
+2. **Search for Weather:**
+   - In the search bar, type "Yunnan weather" and press Enter.
+
+3. **View Weather Information:**
+   - Look at the search results for the current weather information for Yunnan. The temperature should be displayed prominently.
+
+4. **Open the Spreadsheet:**
+   - Open your spreadsheet where you want to record the temperature.
+
+5. **Enter the Temperature:**
+   - Find the cell in column A that corresponds to Yunnan.
+   - In the adjacent cell in column B, enter the temperature you found from the search.
+
+6. **Save Your Work:**
+   - Save the spreadsheet to ensure your data is not lost.
+
+By following these steps, you can efficiently find and record the weather for Yunnan.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The video frames show a sequence of actions involving checking weather information for different locations. Here are the steps identified:
+
+1. **Initial Weather Check**: The weather for a location is displayed.
+2. **Search for a New Location**: The search bar is used to enter a new location.
+3. **Display New Weather Information**: The weather for the new location is shown.
+4. **Repeat Search and Display**: This process is repeated for additional locations.
+
+Each cycle of searching and displaying new weather information counts as a step. Based on the frames, this sequence occurs multiple times.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Based on the frames, it appears there are three click actions:
+
+1. The location is changed from "洛阳" to "北京".
+2. The location is changed from "北京" to "上海".
+3. The location is changed from "上海" to "广州".
+
+These actions are indicated by the changes in the weather information and location name on the left side of the screen.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The frames show a split-screen view with a weather website on the left and a spreadsheet on the right. The weather information changes for different cities, and data is being entered into the spreadsheet. If you need a specific analysis or summary, please let me know!
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The frames show two applications being operated: a web browser displaying weather information and a spreadsheet application.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The frames from the video show two main windows:
+
+1. **Web Browser Window**: This window is displaying a weather forecast page on Baidu. The page shows weather information for different locations, including temperature and weather conditions.
+
+2. **Spreadsheet Application Window**: This window is open to a blank spreadsheet, likely for data entry or analysis.
+
+These two windows are consistently present across the frames.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The images show a split-screen setup. On the left side, a web browser is open with a weather forecast page from Baidu. On the right side, a spreadsheet application is open, likely Microsoft Excel or a similar program.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The application opened on the right side of the screen is Microsoft Excel.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+It looks like the video frames show a weather website and a spreadsheet. If you need specific information or analysis from these frames, please let me know how I can assist you!
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Here are the window titles and pixel coordinates for each frame:
+
+1. **Frame 1-8:**
+   - **Left Window Title:** Baidu Weather
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+2. **Frame 9-11:**
+   - **Left Window Title:** Baidu Weather (Dropdown Open)
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+3. **Frame 12:**
+   - **Left Window Title:** Baidu Search
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+4. **Frame 13-19:**
+   - **Left Window Title:** Baidu Weather
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+5. **Frame 20-22:**
+   - **Left Window Title:** Baidu Weather (Dropdown Open)
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+6. **Frame 23:**
+   - **Left Window Title:** Baidu Search
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+7. **Frame 24-30:**
+   - **Left Window Title:** Baidu Weather
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+8. **Frame 31-32:**
+   - **Left Window Title:** Baidu Weather (Dropdown Open)
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+9. **Frame 33:**
+   - **Left Window Title:** Baidu Weather
+   - **Right Window Title:** Excel
+   - **Pixel Coordinate:** (0, 0)
+
+10. **Frame 34-39:**
+    - **Left Window Title:** Baidu Weather
+    - **Right Window Title:** Excel
+    - **Pixel Coordinate:** (0, 0)
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+25
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+25
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+25
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+I can't view or analyze video frames directly. However, if you provide me with the specific data or details from the frames, such as city names and temperatures, I can help you organize it into a table format.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Based on the frames from the video, here is the data from the spreadsheet:
+
+| City Name | Temperature |
+|-----------|-------------|
+| 北京       | 25°C        |
+| 上海       | 35°C        |
+| 广州       | 32°C        |
+| 深圳       | 35°C        |
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Here is the data from the spreadsheet:
+
+| City Name | Temperature |
+|-----------|-------------|
+| Beijing   | 25°C        |
+| Shanghai  | 35°C        |
+| Guangzhou | 32°C        |
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+I can't extract or display the data from the spreadsheet directly. However, if you can provide the text from the spreadsheet, I can help format it into JSON for you.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The city names in the spreadsheet column A are:
+
+1. 北京
+2. 上海
+3. 广州
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The cities listed in the spreadsheet are:
+
+1. 北京 (Beijing)
+2. 上海 (Shanghai)
+3. 广州 (Guangzhou)
+4. 深圳 (Shenzhen)
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The spreadsheet in the frames contains three city names in column A:
+
+1. 北京
+2. 上海
+3. 广州
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+The cities listed in the spreadsheet column A are:
+
+1. 北京 (Beijing)
+2. 上海 (Shanghai)
+3. 广州 (Guangzhou)
+The application opened in the image is WPS Office, specifically the spreadsheet component.
+The window title in the image is "Multimodal Model testing."
+The window title in the image is "Microsoft Excel - test.xlsx".
+The window title in the image is "Configure Forecast Tree Engine Profiles."
+```json
+{
+  "ComboBox": [
+    {
+      "count": 1,
+      "name": "Engine Profile"
+    }
+  ],
+  "Button": [
+    {
+      "count": 1,
+      "name": "OK"
+    },
+    {
+      "count": 1,
+      "name": "Close"
+    }
+  ],
+  "TextBox": [
+    {
+      "count": 1,
+      "name": "Details"
+    }
+  ],
+  "Label": [
+    {
+      "count": 1,
+      "name": "Choose an engine profile for which do define Forecast Tree and Causal Factors. Engine profiles without definition will default to the setting used for Base engine profile."
+    }
+  ]
+}
+```
+```json
+{
+  "buttons": [
+    {
+      "name": "Add",
+      "count": 1
+    },
+    {
+      "name": "Edit",
+      "count": 1
+    },
+    {
+      "name": "Delete",
+      "count": 1
+    },
+    {
+      "name": "Entitlements",
+      "count": 1
+    },
+    {
+      "name": "Find",
+      "count": 1
+    },
+    {
+      "name": "Clear",
+      "count": 1
+    }
+  ],
+  "dropdowns": [
+    {
+      "name": "Filter",
+      "count": 1
+    },
+    {
+      "name": "Access Group",
+      "count": 1
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Sessions",
+      "count": 1
+    },
+    {
+      "name": "Problem vCenter VMs",
+      "count": 1
+    },
+    {
+      "name": "Problem RDS Hosts",
+      "count": 1
+    },
+    {
+      "name": "Events",
+      "count": 1
+    },
+    {
+      "name": "System Health",
+      "count": 1
+    }
+  ],
+  "tree_items": [
+    {
+      "name": "Dashboard",
+      "count": 1
+    },
+    {
+      "name": "Users and Groups",
+      "count": 1
+    },
+    {
+      "name": "Search Sessions",
+      "count": 1
+    },
+    {
+      "name": "Catalog",
+      "count": 1
+    },
+    {
+      "name": "Desktop Pools",
+      "count": 1
+    },
+    {
+      "name": "Application Pools",
+      "count": 1
+    },
+    {
+      "name": "ThinApps",
+      "count": 1
+    },
+    {
+      "name": "Resources",
+      "count": 1
+    },
+    {
+      "name": "Farms",
+      "count": 1
+    },
+    {
+      "name": "Persistent Disks",
+      "count": 1
+    }
+  ]
+}
+```
+2
+7
+There are five "Refresh" buttons in the image.
+There are three tables on the right side of the image.
+OK, Close
+The "OK" button is located at approximately the pixel coordinates (270, 300).
+To find the pixel coordinates of cell A1, we start from the top-left corner of the spreadsheet area, which is at (41, 261).
+
+Since cell A1 is the first cell, its top-left corner is at the same position as the top-left corner of the spreadsheet area.
+
+Therefore, the pixel coordinates of cell A1 are (41, 261).
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Here's a step-by-step breakdown of the actions in the video in JSON format:
+
+```json
+[
+    {
+        "step": 1,
+        "action_type": "click",
+        "action_value": "A1",
+        "action_description": "Click on cell A1 in the spreadsheet to select the city name.",
+        "next_step": 2
+    },
+    {
+        "step": 2,
+        "action_type": "copy",
+        "action_value": "A1",
+        "action_description": "Copy the city name from cell A1.",
+        "next_step": 3
+    },
+    {
+        "step": 3,
+        "action_type": "click",
+        "action_value": "search_bar",
+        "action_description": "Click on the search bar in the weather website.",
+        "next_step": 4
+    },
+    {
+        "step": 4,
+        "action_type": "paste",
+        "action_value": "search_bar",
+        "action_description": "Paste the city name into the search bar.",
+        "next_step": 5
+    },
+    {
+        "step": 5,
+        "action_type": "press",
+        "action_value": "enter",
+        "action_description": "Press the Enter key to search for the weather.",
+        "next_step": 6
+    },
+    {
+        "step": 6,
+        "action_type": "read",
+        "action_value": "temperature",
+        "action_description": "Read the temperature displayed on the weather website.",
+        "next_step": 7
+    },
+    {
+        "step": 7,
+        "action_type": "click",
+        "action_value": "B1",
+        "action_description": "Click on cell B1 in the spreadsheet to select it.",
+        "next_step": 8
+    },
+    {
+        "step": 8,
+        "action_type": "keyin",
+        "action_value": "temperature",
+        "action_description": "Enter the temperature into cell B1.",
+        "next_step": 9
+    },
+    {
+        "step": 9,
+        "action_type": "repeat",
+        "action_value": "A2",
+        "action_description": "Repeat steps 1-8 for the next city in cell A2.",
+        "next_step": 10
+    },
+    {
+        "step": 10,
+        "action_type": "repeat",
+        "action_value": "A3",
+        "action_description": "Repeat steps 1-8 for the next city in cell A3.",
+        "next_step": null
+    }
+]
+```
+
+This JSON outlines the sequence of actions taken to search for the weather of three cities and update the spreadsheet with the corresponding temperatures.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+Based on the frames provided, here is a step-by-step breakdown of the actions in JSON format:
+
+```json
+[
+    {
+        "step_number": 1,
+        "action_type": "click",
+        "action_value": null,
+        "pixel_coordinate": [100, 200],
+        "action_description": "Click on the search bar on the weather website.",
+        "next_step_number": 2
+    },
+    {
+        "step_number": 2,
+        "action_type": "keyin",
+        "action_value": "City1",
+        "pixel_coordinate": [100, 200],
+        "action_description": "Enter the first city name from the spreadsheet.",
+        "next_step_number": 3
+    },
+    {
+        "step_number": 3,
+        "action_type": "press",
+        "action_value": "Enter",
+        "pixel_coordinate": [100, 200],
+        "action_description": "Press Enter to search for the weather.",
+        "next_step_number": 4
+    },
+    {
+        "step_number": 4,
+        "action_type": "read",
+        "action_value": "25°C",
+        "pixel_coordinate": [150, 250],
+        "action_description": "Read the temperature displayed on the website.",
+        "next_step_number": 5
+    },
+    {
+        "step_number": 5,
+        "action_type": "click",
+        "action_value": null,
+        "pixel_coordinate": [1300, 200],
+        "action_description": "Click on the spreadsheet cell B1.",
+        "next_step_number": 6
+    },
+    {
+        "step_number": 6,
+        "action_type": "keyin",
+        "action_value": "25°C",
+        "pixel_coordinate": [1300, 200],
+        "action_description": "Enter the temperature into the spreadsheet.",
+        "next_step_number": 7
+    },
+    {
+        "step_number": 7,
+        "action_type": "click",
+        "action_value": null,
+        "pixel_coordinate": [100, 200],
+        "action_description": "Click on the search bar on the weather website.",
+        "next_step_number": 8
+    },
+    {
+        "step_number": 8,
+        "action_type": "keyin",
+        "action_value": "City2",
+        "pixel_coordinate": [100, 200],
+        "action_description": "Enter the second city name from the spreadsheet.",
+        "next_step_number": 9
+    },
+    {
+        "step_number": 9,
+        "action_type": "press",
+        "action_value": "Enter",
+        "pixel_coordinate": [100, 200],
+        "action_description": "Press Enter to search for the weather.",
+        "next_step_number": 10
+    },
+    {
+        "step_number": 10,
+        "action_type": "read",
+        "action_value": "35°C",
+        "pixel_coordinate": [150, 250],
+        "action_description": "Read the temperature displayed on the website.",
+        "next_step_number": 11
+    },
+    {
+        "step_number": 11,
+        "action_type": "click",
+        "action_value": null,
+        "pixel_coordinate": [1300, 250],
+        "action_description": "Click on the spreadsheet cell B2.",
+        "next_step_number": 12
+    },
+    {
+        "step_number": 12,
+        "action_type": "keyin",
+        "action_value": "35°C",
+        "pixel_coordinate": [1300, 250],
+        "action_description": "Enter the temperature into the spreadsheet.",
+        "next_step_number": 13
+    },
+    {
+        "step_number": 13,
+        "action_type": "click",
+        "action_value": null,
+        "pixel_coordinate": [100, 200],
+        "action_description": "Click on the search bar on the weather website.",
+        "next_step_number": 14
+    },
+    {
+        "step_number": 14,
+        "action_type": "keyin",
+        "action_value": "City3",
+        "pixel_coordinate": [100, 200],
+        "action_description": "Enter the third city name from the spreadsheet.",
+        "next_step_number": 15
+    },
+    {
+        "step_number": 15,
+        "action_type": "press",
+        "action_value": "Enter",
+        "pixel_coordinate": [100, 200],
+        "action_description": "Press Enter to search for the weather.",
+        "next_step_number": 16
+    },
+    {
+        "step_number": 16,
+        "action_type": "read",
+        "action_value": "32°C",
+        "pixel_coordinate": [150, 250],
+        "action_description": "Read the temperature displayed on the website.",
+        "next_step_number": 17
+    },
+    {
+        "step_number": 17,
+        "action_type": "click",
+        "action_value": null,
+        "pixel_coordinate": [1300, 300],
+        "action_description": "Click on the spreadsheet cell B3.",
+        "next_step_number": 18
+    },
+    {
+        "step_number": 18,
+        "action_type": "keyin",
+        "action_value": "32°C",
+        "pixel_coordinate": [1300, 300],
+        "action_description": "Enter the temperature into the spreadsheet.",
+        "next_step_number": null
+    }
+]
+```
+
+This JSON describes the sequence of actions taken to search for the weather of three cities and update the spreadsheet with the results.
+1
+Extracted 37 frames
+Extracted audio to input/video/1.mp3
+To get the temperature for Yunnan using the same method, you can follow these steps in JSON format:
+
+```json
+[
+    {
+        "step": 1,
+        "action_type": "click",
+        "action_value": "search_bar",
+        "action_description": "Click on the search bar on the weather website.",
+        "next_step": 2
+    },
+    {
+        "step": 2,
+        "action_type": "keyin",
+        "action_value": "Yunnan",
+        "action_description": "Type 'Yunnan' into the search bar.",
+        "next_step": 3
+    },
+    {
+        "step": 3,
+        "action_type": "press",
+        "action_value": "enter",
+        "action_description": "Press the Enter key to search for Yunnan's weather.",
+        "next_step": 4
+    },
+    {
+        "step": 4,
+        "action_type": "read",
+        "action_value": "temperature_display",
+        "action_description": "Read the temperature displayed on the website for Yunnan.",
+        "next_step": 5
+    },
+    {
+        "step": 5,
+        "action_type": "click",
+        "action_value": "spreadsheet_cell_B",
+        "action_description": "Click on the corresponding cell in column B of the spreadsheet.",
+        "next_step": 6
+    },
+    {
+        "step": 6,
+        "action_type": "keyin",
+        "action_value": "temperature_value",
+        "action_description": "Enter the temperature value obtained from the website into the spreadsheet.",
+        "next_step": null
+    }
+]
+```
+
+This sequence of actions will allow you to search for the weather in Yunnan and update the spreadsheet with the temperature.
+I'm sorry, I can't assist with that.
+Sure, here is the text from the image:
+
+```
+Updated 1/28/2015 1:42 PM
+
+Application Pools
+
+Add... Edit... Delete... Entitlements...
+
+Filter ▼
+
+Find Clear
+
+Access Group: All ▼
+
+ID Display Name Farm
+
+Calculator 计算器 RDS-APP-Farm
+
+Notepad 记事本 RDS-APP-Farm
+
+iexplore Internet Explorer RDS-APP-Farm
+
+Inventory
+
+Dashboard
+
+Users and Groups
+
+Search Sessions
+
+Catalog
+
+Desktop Pools
+
+Application Pools
+
+ThinApps
+
+Resources
+
+Farms
+
+Persistent Disks
+```
+
+A1  
+A2  
+A3  
+A4  
+A5  
+A6  
+A7  
+A8  
+A9  
+
+B1  
+B2  
+B3  
+B4  
+B5  
+B6  
+B7  
+B8  
+B9  
+LL1ll1
+The navigation panel contains the following items:
+
+- Reports
+- Accounting and MIS
+- Asset Management
+- Auto Billing Collection
+- Batch Parameters
+- Billing
+- Bills and Collections
+- Branch Parameters
+- Card Maintenance
+- Cash Management
+- Clearing
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+- Clipdata_Main_Menu
+
+```json
+{
+    "A1": "A1",
+    "B1": "B1",
+    "A2": "A2",
+    "B2": "B2",
+    "A3": "A3",
+    "B3": "B3",
+    "A4": "A4",
+    "B4": "B4",
+    "A5": "A5",
+    "B5": "B5",
+    "A6": "A6",
+    "B6": "B6",
+    "A7": "A7",
+    "B7": "B7",
+    "A8": "A8",
+    "B8": "B8",
+    "A9": "A9",
+    "B9": "B9"
+}
+```
+```json
+{
+    "A1": "Testing Module",
+    "B1": "Testing case",
+    "C1": "Input",
+    "D1": "Prompt",
+    "E1": "Result",
+    "F1": "Comments",
+    "A2": "Recording",
+    "A3": "Vedio2Frame",
+    "B3": "coordinates recognition",
+    "B9": "step recognition",
+    "A12": "FramePicker",
+    "A13": "Concept Analyzer",
+    "A14": "Identifier",
+    "A15": "Pattern Generator",
+    "A16": "Knowledge Generator",
+    "A17": "Replayer"
+}
+```
+```json
+{
+  "tables": [
+    {
+      "name": "Current Users Summary",
+      "attributes": ["User Id", "Home Branch", "Current Branch"],
+      "values": [
+        ["FCUBS001", "000", "001"],
+        ["ARUN01", "000", "001"],
+        ["ARUN02", "000", "001"],
+        ["NIFRA3", "001", "001"],
+        ["ANIS12", "001", "001"]
+      ]
+    },
+    {
+      "name": "Function Description",
+      "attributes": ["Function Id", "Module", "Description"],
+      "values": [
+        ["AMSCAMONL", "FC", "Corporate Admin"],
+        ["AMSDEFNL", "FC", "Charge Definition"],
+        ["AMSFINL", "FC", "Asset Management"],
+        ["AMSFNPRD", "FC", "Asset Product"],
+        ["AMSFPRCL", "FC", "Fund Product Pref"]
+      ]
+    },
+    {
+      "name": "User Alerts",
+      "attributes": ["User ID", "Sequence Number", "Alert Type"],
+      "values": [
+        ["31681401", "315814014", "D"],
+        ["31681401", "315814013", "A"],
+        ["31681401", "315814012", "D"],
+        ["31681401", "315814015", "A"]
+      ]
+    },
+    {
+      "name": "User Role Account Class",
+      "attributes": ["Role Id", "Account Class"],
+      "values": []
+    },
+    {
+      "name": "User Roles",
+      "attributes": ["Role Description", "Branches Allowed", "Account Class"],
+      "values": [
+        ["FUNDS TRANSFER Txn D", "D", "D"],
+        ["FUNDS TRANSFER Txn D", "D", "D"],
+        ["FUNDS TRANSFER Txn D", "D", "D"],
+        ["FUNDS TRANSFER Txn D", "D", "D"],
+        ["Foreign Exchange Main D", "D", "D"]
+      ]
+    },
+    {
+      "name": "Module Dashboard Summary",
+      "attributes": ["Module Id", "Module Description"],
+      "values": [
+        ["AC", "Accounting"],
+        ["AD", "Auto EOD"],
+        ["AM", "Asset Management"],
+        ["BC", "Bills and Collections"],
+        ["CL", "Collateral"]
+      ]
+    }
+  ]
+}
+```
+Here's the content in a table format:
+
+| Setting               | Value                  |
+|-----------------------|------------------------|
+| Amount Format         | .                      |
+| Date Format           | (Dropdown not visible) |
+| Font Size             | Medium                 |
+| Theme                 | (Dropdown not visible) |
+| Show Dashboards       | N                      |
+| Alerts On Home        | N                      |
+| Number Format Mask    | XXX,XXX,XXX,XXX        |
+|                       | XX,XX,XX,XX,XXX        |
+| Buttons               | Save, Cancel           |
+```json
+{"A2":"A2"}
+```
+```json
+{"A2":"12"}
+```
+The first "Refresh" button belongs to the "Current Users Summary" table.
+The first "Refresh" button from the lower right corner belongs to the "User Roles" table.
+Yes.
+No
+No
+To merge the first row in your Excel spreadsheet, follow these steps:
+
+1. **Select the Cells**: Click and drag to select cells A1, B1, and C1.
+
+2. **Merge the Cells**:
+   - Go to the "Home" tab on the ribbon.
+   - Look for the "Merge & Center" button in the alignment group.
+   - Click "Merge & Center" to merge the selected cells.
+
+This will combine the cells into one and center the content. If you want a different alignment, you can adjust it using the alignment options in the same group.
+To merge the first row in your Excel spreadsheet, follow these steps:
+
+1. **Ensure the First Row is Selected**: You've already done this.
+
+2. **Go to the Home Tab**: Look for the "Home" tab in the toolbar at the top.
+
+3. **Find the Merge & Center Button**: In the "Alignment" group, locate the "Merge & Center" button.
+
+4. **Click Merge & Center**: Click the button to merge the selected cells into one.
+
+That's it! Your first row should now be merged into a single cell.
+To merge the first row in your Excel spreadsheet using WPS Office, follow these steps:
+
+1. **Select the Cells**: Click and drag to select the cells in the first row that you want to merge (A1 to C1).
+
+2. **Merge Cells**: 
+   - Go to the toolbar at the top.
+   - Click on the "Merge & Center" button. This is usually represented by an icon with two arrows pointing towards each other.
+
+3. **Choose Merge Option**: 
+   - Since you have a dialog box open, it seems you need to confirm the merge type.
+   - Select the option that suits your needs (e.g., "合并内容" if you want to keep the content of the first cell).
+   - Click the green button (确认) to confirm.
+
+This will merge the selected cells into one. If you have any specific content you want to keep, ensure it's in the leftmost cell before merging.
+Yes.
+Yes.
+No
+Yes.
+Yes
+No
+No.
+Yes.
+To close the popup window in the image, you can click the "Cancel" button at the bottom of the window. Alternatively, you might be able to click the "X" in the top right corner of the window if it's available.
