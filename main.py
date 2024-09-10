@@ -1,6 +1,10 @@
+import dotenv
 import logging
 import pandas as pd
 from llm.gemini.process import GinaiModel
+from llm.openai.process import OpenAIModel
+
+dotenv.load_dotenv()
 
 # config logging
 logging.basicConfig(filename='log/log.txt', filemode='w', level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -13,7 +17,11 @@ def read_excel_data(file_path):
 def main():
     logging.info('started...')
 
-    ginai_model = GinaiModel()
+    # config AI_MODEL in .env file
+    if os.getenv("AI_MODEL") == "OPENAI"
+        ai_model = GinaiModel()
+    elif os.getenv("AI_MODEL") == "GOOGLE_API"
+        ai_model = OpenAIModel()
 
     data = read_excel_data("input/testing_case.xlsx") # read input excel   
     data.dropna(subset=['Image & Video','Prompt'], inplace=True) # ignore the row if column  'Image & Video' or 'Prompt' is blank
@@ -26,6 +34,7 @@ def main():
         ira_module = row['IRA Module']
         case_scenario = row['Case Scenario']
         media = row['Image & Video']
+        media = media.replace("\\", "/")
         prompt = row['Prompt']
         expected_result = row['Expected Result']
 
@@ -33,10 +42,10 @@ def main():
 
         if "image" in media:
             image_path = media
-            result = ginai_model.process_image(image_path, prompt)
+            result = ai_model.process_image(image_path, prompt)
         elif "video" in media:
             video_path = media
-            result = ginai_model.process_video(video_path, prompt)
+            result = ai_model.process_video(video_path, prompt)
         else:
             result = 'Unknown case'
 
