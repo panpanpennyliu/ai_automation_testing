@@ -18,9 +18,9 @@ def main():
     logging.info('started...')
 
     # config AI_MODEL in .env file
-    if os.getenv("AI_MODEL") == "OPENAI"
+    if os.getenv("AI_MODEL") == "OPENAI":
         ai_model = GinaiModel()
-    elif os.getenv("AI_MODEL") == "GOOGLE_API"
+    elif os.getenv("AI_MODEL") == "GOOGLE_API":
         ai_model = OpenAIModel()
 
     data = read_excel_data("input/testing_case.xlsx") # read input excel   
