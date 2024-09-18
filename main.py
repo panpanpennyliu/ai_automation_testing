@@ -1,3 +1,4 @@
+import os
 import dotenv
 import logging
 import pandas as pd
@@ -19,9 +20,9 @@ def main():
 
     # config AI_MODEL in .env file
     if os.getenv("AI_MODEL") == "OPENAI":
-        ai_model = GinaiModel()
-    elif os.getenv("AI_MODEL") == "GOOGLE_API":
         ai_model = OpenAIModel()
+    elif os.getenv("AI_MODEL") == "GOOGLE_API":        
+        ai_model = GinaiModel()
 
     data = read_excel_data("input/testing_case.xlsx") # read input excel   
     data.dropna(subset=['Image & Video','Prompt'], inplace=True) # ignore the row if column  'Image & Video' or 'Prompt' is blank
